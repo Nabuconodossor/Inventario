@@ -1,0 +1,11 @@
+C:\Users\gafer\Desktop\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\gafer\Desktop\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\gafer\Desktop\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\gafer\Desktop\Inventario\Inventario\obj\Debug\Inventario.csproj.AssemblyReference.cache
+C:\Users\gafer\Desktop\Inventario\Inventario\obj\Debug\Inventario.csproj.SuggestedBindingRedirects.cache
+C:\Users\gafer\Desktop\Inventario\Inventario\obj\Debug\Inventario.GUI.Adminstracion.resources
+C:\Users\gafer\Desktop\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\gafer\Desktop\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.cache
+C:\Users\gafer\Desktop\Inventario\Inventario\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\gafer\Desktop\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\gafer\Desktop\Inventario\Inventario\obj\Debug\Inventario.pdb
