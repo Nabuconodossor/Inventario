@@ -1,0 +1,11 @@
+C:\Users\Kitty\source\repos\LOGIN\LOGIN\bin\Debug\LOGIN.exe.config
+C:\Users\Kitty\source\repos\LOGIN\LOGIN\bin\Debug\LOGIN.exe
+C:\Users\Kitty\source\repos\LOGIN\LOGIN\bin\Debug\LOGIN.pdb
+C:\Users\Kitty\source\repos\LOGIN\LOGIN\obj\Debug\LOGIN.csproj.AssemblyReference.cache
+C:\Users\Kitty\source\repos\LOGIN\LOGIN\obj\Debug\LOGIN.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kitty\source\repos\LOGIN\LOGIN\obj\Debug\LOGIN.Form1.resources
+C:\Users\Kitty\source\repos\LOGIN\LOGIN\obj\Debug\LOGIN.Properties.Resources.resources
+C:\Users\Kitty\source\repos\LOGIN\LOGIN\obj\Debug\LOGIN.csproj.GenerateResource.cache
+C:\Users\Kitty\source\repos\LOGIN\LOGIN\obj\Debug\LOGIN.csproj.CoreCompileInputs.cache
+C:\Users\Kitty\source\repos\LOGIN\LOGIN\obj\Debug\LOGIN.exe
+C:\Users\Kitty\source\repos\LOGIN\LOGIN\obj\Debug\LOGIN.pdb
